@@ -1,6 +1,12 @@
 # Machine Learning R language Version
 
-This repository is the collection of R-Language scripts for solving real-world problems with Machine Learning and Deep Learning. Following is the file structure for the repository:
+This repository is the collection of R-Language scripts for solving real-world problems with Machine Learning and Deep Learning.In case of any query or information kindly contact me via:
+
+Email: sakinazaidi77@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/sakina-zaidi-351ba3153/
+
+Following is the file structure for the repository:
 
 * Data Preprocessing
 
